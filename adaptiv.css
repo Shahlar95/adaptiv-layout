@@ -1,0 +1,167 @@
+.main1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+h1{
+    height: 6rem;
+width: 23rem;
+margin-left: 15rem;
+top: 5.7rem;
+border-radius: nullpx;
+font-family: Roboto Slab;
+font-size: 3.5rem;
+font-weight: 700;
+line-height: 3.5rem;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.main1-alt1{
+    font-family: Roboto;
+font-size: 1.5rem;
+font-weight: 400;
+line-height: 2rem;
+letter-spacing: 0em;
+text-align: left;
+height: 23.375rem;
+width: 41.375rem;
+left: 7.75rem;
+top: 12.625rem;
+border-radius: nullpx;
+
+
+}
+
+
+#pattern0{
+height: 19.69rem;
+width: 19.625rem;
+left: 61rem;
+top: 14.125rem;
+border-radius: 0px;
+}
+
+
+
+.numb1{
+    font-family: Roboto;
+font-size: 1.57rem;
+font-weight: 700;
+line-height: 2rem;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 0rem;
+
+}
+
+.numb2{
+    
+    font-family: Roboto;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.4375rem;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 0rem;
+}
+
+.numb3{
+    font-family: Roboto;
+font-size: 1.5625rem;
+font-weight: 700;
+line-height: 2rem;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 0rem;
+}
+
+.numb4{
+    font-family: Roboto;
+font-size: 1.125rem;
+font-weight: 400;
+line-height: 1.4375rem;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 0rem;
+
+}
+
+.numb5{
+    font-family: Roboto;
+font-size: 1.5625rem;
+font-weight: 700;
+line-height: 2rem;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 0rem;
+
+}
+
+.numb6{
+    
+    font-family: Roboto;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.4375rem;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 0rem;
+    
+}
+
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+}
+
+.picture2{
+    width: 14.5rem;
+height: 12.69rem
+
+
+}
+
+.main2-alt1{
+
+    width: 7rem;
+    margin-top: 3rem;
+    
+}
+.main2-alt2{
+    width: 7rem;
+    margin-top: 3rem;
+   
+}
+.main2-alt3{
+    width: 7rem;
+    margin-top: 3rem;
+    
+    
+}
+
+@media(max-width:830px) {
+
+    .main1{
+        margin-bottom: 5rem;
+    }
+   .picture2{
+        display: none;
+    }
+    .main2{
+        margin-left: 0rem;
+    }
+}
+
+@media(max-width:700px) {
+    .main1{
+        margin-bottom: 8rem;
+    }
+    
+}
